@@ -121,5 +121,7 @@ footer{
 }
 
 ul{
+    text-indent: 1px;
+    text-align: left;
     columns:2;
 }
